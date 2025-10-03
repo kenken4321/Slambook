@@ -1,0 +1,32 @@
+body{
+    background-color:rgb(71, 145, 66);
+    display: flex;
+}
+
+form{
+    margin: auto;
+    background-color:#afe5ac;
+    padding: 50px;
+    width: 40%;
+    border: 5px;
+    border-style: dashed;
+    border-radius: 6px;
+}
+
+form .hello label{
+    font-family: monospace;
+    font-weight: bold;
+}
+
+form .hello hr{
+    border-color: black;
+}
+
+form .hello fieldset{
+    border-color: black;
+}
+
+form .hello fieldset legend{
+    font-family: monospace;
+    font-weight: bold;
+}
